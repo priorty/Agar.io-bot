@@ -1,4 +1,4 @@
-// ==UserScript==
+f// ==UserScript==
 // @name        Launcher
 // @namespace   AposLauncher
 // @include     http://agar.io/
@@ -889,7 +889,7 @@ console.log("Running Bot Launcher!");
   dArc = [],
   dText = [],
   lines = [],
-  names = ["NotReallyABot"],
+  names = ["Priorty"],
   originalName = names[Math.floor(Math.random() * names.length)],
   sessionScore = 0,
   serverIP = "",
